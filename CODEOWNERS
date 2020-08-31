@@ -1,0 +1,3 @@
+*.ts @fernandoguide
+*.json @fernandoguide
+/.docker/ @fernandoguide
