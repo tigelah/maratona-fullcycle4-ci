@@ -4,6 +4,7 @@ export class CategoryDto{
 
     @IsString()
     @IsNotEmpty()
+    
     name: string;
 
 }
